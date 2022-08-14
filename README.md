@@ -2,4 +2,4 @@
 Demonstrate GitHub Actions self-hosted runners on home k8s cluster
 
 # Notes
-1. Blah, blah, blah...
+1. Blah, blah, blah...build something
